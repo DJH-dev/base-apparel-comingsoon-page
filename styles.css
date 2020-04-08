@@ -110,7 +110,7 @@ input.email {
 }
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: hsl(0, 80%, 86%);
-    font-size: .9em;
+    font-size: .9 basem;
     opacity: 1; /* Firefox */
   }
   
@@ -167,7 +167,7 @@ footer {
         background-image: linear-gradient(135deg, hsl(0, 0%, 100%),hsl(0, 100%, 98%));
     }
     .pic-div {
-        background-size: auto;
+        
         background-position-x: right;
         background-position-y: top;
         background-repeat: no-repeat;
