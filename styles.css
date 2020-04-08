@@ -137,6 +137,10 @@ button {
     z-index: 1;
     width: 22%;
 }
+button:hover {
+    box-shadow: none;
+}
+
 
 footer {
     margin-top: 60px;
@@ -221,9 +225,9 @@ footer {
     button {
         border-radius: 40px;
         padding: 1em 2.2em .8em 1.8em;
-        right: -40px;
-        
+        right: -40px;  
     }
+
 
     footer {
         bottom: 0;
